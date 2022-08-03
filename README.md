@@ -1,0 +1,2 @@
+# Componentedeclasse
+Created with CodeSandbox
